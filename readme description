@@ -1,0 +1,8 @@
+●	Extracted data from a JSON including location and descriptions of superfund sites (EPA) and demographics and socioeconomics (Census).  
+Cleaned data, selected columns, and uploaded to SQL.  The dashboard that we created showed the geographic dispersal of superfund sites across the nation
+through clustering, with the ability to zoom in to the point of getting the specific address for a site.
+In addition, a table of metadata was derived including interesting state-level summary statistics, such as level of homeownership vs rentals, what number
+didn't have indoor plumbing, and other factors.  Lastly, the three plot visualizations showed the relationships between site score, or how bad a site is, and 
+three different variables, such as percent person of color, median household income, and percent without healthcare.
+●	Subject Matter Expert and Analyst.  Made visualizations and tables in HTML/JS and made presentation. 
+●	Used Python, Pandas, Jupyter Notebook, SQLalchemy, SQL, HTML, JS and d3 on the data.
